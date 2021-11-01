@@ -1,0 +1,38 @@
+body{
+    font-family: 'Lora', serif;
+    text-align: center;
+    background: floralwhite;
+}
+
+.header_div{
+    background: lightseagreen;
+    color:royalblue;
+}
+
+.header_div p{
+    font-family: 'Indie Flower', cursive;
+    color:crimson;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Chakra Petch', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(100, 156, 153);
+}
